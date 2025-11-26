@@ -196,6 +196,11 @@ Sovelluksessa on seuraavat päänäkymät:
 ![Onboarding-näkymä](docs/screenshots/onboard2.png)
 ![Onboarding-näkymä](docs/screenshots/onboard3.png)
 
+### Sign Up/ Sign In
+
+![Sign Up](docs/screenshots/signUp.png)
+![Sign In](docs/screenshots/signIn.png)
+
 ### Reseptien haku
 
 ![Recipes-välilehti](docs/screenshots/homeScreen.png)
